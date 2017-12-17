@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{5A22026E-C88E-8788-D653-F71D0C53E743}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Car2dcontroller.cs">
+    <Files>
+      <File FileName="Assets/scripts/Car2dcontroller.cs" Line="21" Column="23" />
+      <File FileName="Assets/scripts/CameraFollow.cs" Line="19" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TPFinalVideojuegos PreferredExecutionTarget="Unity.Editor" />
+</Properties>
